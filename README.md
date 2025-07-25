@@ -14,15 +14,14 @@
 - ⚙️ Experienced with Discord.js, Node.js, and APIs  
 - ☕ Fueled by coffee and clean code  
 - 🌱 Learning every day and improving my craft  
-- 📫 Reach me: [your.email@example.com](mailto:your.email@example.com)  
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&count_private=true&hide_title=true&line_height=30&icon_color=E63946&text_color=E63946&bg_color=0d1117" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide=html,css&langs_count=5&bg_color=0d1117&text_color=E63946" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ZaynDev09&show_icons=true&theme=radical&count_private=true&hide_title=true&line_height=30&icon_color=E63946&text_color=E63946&bg_color=0d1117" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaynDev09&layout=compact&theme=radical&hide=html,css&langs_count=5&bg_color=0d1117&text_color=E63946" />
 </p>
 
 ---
@@ -42,13 +41,7 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://twitter.com/YourTwitter" target="_blank" rel="noreferrer">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/YourLinkedIn" target="_blank" rel="noreferrer">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/YourDiscord" target="_blank" rel="noreferrer">
+  <a href="https://discord.gg/YourDiscordInvite" target="_blank" rel="noreferrer">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
