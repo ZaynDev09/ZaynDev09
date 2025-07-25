@@ -1,9 +1,5 @@
-<h1 align="center">
-  Hi, I am <span style="color:#E63946;">Zayn</span> 👋
-</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=E63946&center=true&vCenter=true&width=450&lines=Bot+Developer;Code+Enthusiast;Automation+Addict" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=E63946&center=true&vCenter=true&width=450&lines=Hi,+I+am+Zayn!" alt="Typing SVG" />
 </p>
 
 ---
