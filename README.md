@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm <span style="color:#E63946;">Zayn</span> 👋
+  Hi, I am <span style="color:#E63946;">Zayn</span> 👋
 </h1>
 
 <p align="center">
@@ -21,7 +21,12 @@
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=ZaynDev09&show_icons=true&theme=radical&count_private=true&hide_title=true&line_height=30&icon_color=E63946&text_color=E63946&bg_color=0d1117" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaynDev09&layout=compact&theme=radical&hide=html,css&langs_count=5&bg_color=0d1117&text_color=E63946" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaynDev09&layout=compact&theme=radical&langs_count=6&bg_color=0d1117&text_color=E63946" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ZaynDev09&theme=radical&background=0d1117&fire=E63946&currStreakNum=E63946&sideNums=E63946" />
+  <img height="150" src="https://github-readme-activity-graph.cyclic.app/graph?username=ZaynDev09&theme=redical&area=true&hide_border=true" />
 </p>
 
 ---
@@ -40,8 +45,6 @@
 
 ### 🔗 Connect with Me
 
-<p align="center">
-  <a href="https://discord.gg/YourDiscordInvite" target="_blank" rel="noreferrer">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+<p align="center" style="font-size:18px; color:#E63946;">
+  Discord: <strong>fahim28_</strong>
 </p>
