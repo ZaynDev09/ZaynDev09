@@ -6,7 +6,7 @@
 
 ---
 
-<h1 align="center" style="color:#00BFFF;">🌤️ Welcome to My GitHub!</h1>
+<h1 align="center" style="color:#00BFFF;">🌤️ Welcome to My Profile!</h1>
 
 
 ## 👋 About Me
@@ -29,12 +29,6 @@
 ---
 
 ## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://discord.gg/yourservercode">
-    <img src="https://invidget.switchblade.xyz/yourservercode" alt="Join My Discord Server" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://discord.com/users/1297589924668768269">
