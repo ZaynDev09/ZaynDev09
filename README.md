@@ -37,7 +37,9 @@
 </p>
 
 <p align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/1297589924668768269?theme=light&bg=00bfff&animated=true&hideDiscrim=true&borderRadius=20px" alt="Discord Status" />
+  <a href="https://discord.com/users/1297589924668768269">
+    <img src="https://lanyard.cnrad.dev/api/1297589924668768269?theme=light&idleMessage=Less%20is%20more%2C%20but%20desires%20are%20endless.%20A%20heart%20full%20of%20emotions." alt="Discord Presence" />
+  </a>
 </p>
 
 ---
