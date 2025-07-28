@@ -8,11 +8,6 @@
 
 <h1 align="center" style="color:#00BFFF;">🌤️ Welcome to My GitHub!</h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header" />
-</p>
-
-<br/>
 
 ## 👋 About Me
 
@@ -46,7 +41,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer" />
-</p>
