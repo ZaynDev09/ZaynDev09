@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/your_discord_id?theme=light&bg=00bfff&animated=true&hideDiscrim=true&borderRadius=20px" alt="Discord Status" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/1297589924668768269?theme=light&bg=00bfff&animated=true&hideDiscrim=true&borderRadius=20px" alt="Discord Status" />
 </p>
 
 ---
